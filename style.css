@@ -1,0 +1,22 @@
+.jumbotron {
+	padding-top: 2rem;
+}
+
+.section {
+	padding-top: 5rem;
+}
+
+body {
+	background-image: url(img/.jpg);
+	background-color: #F0F8FF;
+
+}
+
+.p {
+	padding-top: 2rem;
+}
+
+.footer{
+	padding-top: 4rem;
+	padding-bottom: 4rem;
+}
